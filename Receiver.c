@@ -8,7 +8,7 @@
 #include <math.h>
 
 #define PORT 5555
-#define COLLISION_THRESHOLD 500.0 // Danger distance in meters
+#define COLLISION_THRESHOLD 100.0 // Danger distance in meters
 
 // Ensure this struct matches your Transmitter exactly
 typedef struct {
